@@ -17,7 +17,7 @@ All sorts of experiences train me to communicate as not only a domestic but also
 
 3rd one is "INITIATIVENESS"   
 As developer/researcher in computer science, specially, we faced new technologies everyday. Computer technology is often applied to seemingly unrelated areas such as power system(smart grids), medical treatment (Digital therapeuticcs) and so on. So, we need to be keep aggresive, initiative and embraceness.   
-I worked on cloud-base smart grid network implementation using IEEE 2030.5 protocol. And also joined digital therapeutics research.   
+I worked on cloud-base smart grid network implementation using IEEE 2030.5 protocol. (You can check at https://www.sane-kim.com) And also joined digital therapeutics research.   
 
 You can check my experience in more detail at my portfolio   
 Here is my portfolio link: link
